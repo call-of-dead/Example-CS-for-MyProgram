@@ -1,0 +1,5 @@
+/home/diman-pro/Рабочий стол/CONSOLE11/CONSOLE11/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/diman-pro/Рабочий стол/CONSOLE11/CONSOLE11/bin/Debug/CONSOLE11.exe.mdb
+/home/diman-pro/Рабочий стол/CONSOLE11/CONSOLE11/bin/Debug/CONSOLE11.exe
+/home/diman-pro/Рабочий стол/CONSOLE11/CONSOLE11/obj/x86/Debug/CONSOLE11.exe
+/home/diman-pro/Рабочий стол/CONSOLE11/CONSOLE11/obj/x86/Debug/CONSOLE11.exe.mdb

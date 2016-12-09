@@ -1,0 +1,5 @@
+D:\User\Desktop\CONSOLE11\CONSOLE11\obj\x86\Debug\CONSOLE11.exe
+D:\User\Desktop\CONSOLE11\CONSOLE11\bin\Debug\CONSOLE11.exe
+D:\User\Desktop\CONSOLE11\CONSOLE11\bin\Debug\CONSOLE11.pdb
+D:\User\Desktop\CONSOLE11\CONSOLE11\obj\x86\Debug\CONSOLE11.csprojResolveAssemblyReference.cache
+D:\User\Desktop\CONSOLE11\CONSOLE11\obj\x86\Debug\CONSOLE11.pdb
