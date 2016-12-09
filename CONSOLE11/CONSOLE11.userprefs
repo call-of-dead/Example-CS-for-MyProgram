@@ -1,6 +1,10 @@
 ﻿<Properties StartupItem="CONSOLE11/CONSOLE11.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CONSOLE11/Program.cs">
+    <Files>
+      <File FileName="CONSOLE11/Program.cs" Line="136" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
